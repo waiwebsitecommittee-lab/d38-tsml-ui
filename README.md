@@ -1,7 +1,7 @@
 # tsml-ui-starter-repository
 ## A starter repository for implementing the TSML UI
 
-The purpose of this repository is to assist those with little to no git and GitHub in setting up their own implementation of the TSML UI and then host it for free with GitHub Pages.
+The purpose of this repository is to assist those with little to no git and GitHub experience in setting up their own implementation of the TSML UI and then host it for free with GitHub Pages.
 
 Steps (can all be done within a web browser):
 1. Create a GitHub account
