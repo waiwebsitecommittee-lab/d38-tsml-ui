@@ -1,10 +1,10 @@
 {
-meetings: 0[
+meetings: [
   {
     "name": "Sunlight of the Spirit",
-    "time": "7:00 AM"",
+    "time": "7:00 AM",
     "day": 0,
-    "location": ""Phone"",
+    "location": "Phone",
     "address": "",
     "region": "",
     "types"": ["O", "D"],
