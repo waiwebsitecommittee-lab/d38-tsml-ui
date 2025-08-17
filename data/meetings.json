@@ -1,20 +1,27 @@
 {
 meetings: 0[
   {
-"    ""name"": ""Sunlight of the Spirit"","
-"    ""time"": ""7:00 AM"","
-"    ""day"": 0,"
-"    ""location"": ""Phone"","
-"    ""address"": """","
-"    ""region"": """","
-"    ""types"": [""O"", ""D""],"
-"    ""location notes"": ""Dial (605) 313-5932 x400575"","
-"    ""timezone"": """","
-"    ""conference URL"": """","
-"    ""conference phone"": ""(605) 313-5932 x400569"","
-"    ""Author"": """","
-"    ""slug"": ""Sunlight-of-the-Spirit-Sun"""
-"  },"
+    "name": "Sunlight of the Spirit",
+    "time": "7:00 AM"",
+    "day": 0,
+    "location": ""Phone"",
+    "address": "",
+    "region": "",
+    "types"": ["O", "D"],
+    "location notes": "Dial (605) 313-5932 x400575",
+    "timezone"": "",
+    "conference URL": "",
+    "conference phone": "(605) 313-5932 x400569",
+    "Author"": "",
+    "slug": "Sunlight-of-the-Spirit-Sun"
+}
+]
+
+}
+
+
+  
+  },
   {
 "    ""name"": ""Morning Serenity Group"","
 "    ""time"": ""8:30 AM"","
